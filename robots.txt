@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourusername.github.io/savinatour.com/sitemap.xml
+
+Sitemap: https://webs-star.github.io/savinatour.com/sitemap.xml
